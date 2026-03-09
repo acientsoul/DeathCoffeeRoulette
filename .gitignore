@@ -1,0 +1,18 @@
+# Node
+node_modules/
+package-lock.json
+
+# Android/Gradle
+.gradle/
+build/
+app/build/
+*.apk
+*.keystore
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Build outputs
+manual-apk/build/

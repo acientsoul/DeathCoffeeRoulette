@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="western_sand">#FFD2B48C</color>
+    <color name="western_sky">#FF87CEEB</color>
+    <color name="explosion_orange">#FFFF6600</color>
+    <color name="explosion_red">#FFFF0000</color>
+    <color name="explosion_yellow">#FFFFCC00</color>
+    <color name="revolver_gray">#FF4A4A4A</color>
+    <color name="revolver_brown">#FF8B4513</color>
+</resources>
